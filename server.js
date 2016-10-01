@@ -87,7 +87,7 @@ ${heading}
 return htmlTemplate;
 }
 app.get('/', function (req, res) {
-res.send(createTemplate(articleOne));
+res.sendFile(path.join(_dirname,'ui','index.html'));
 });
 
 app.get('/:articleName', function (req, res) {
