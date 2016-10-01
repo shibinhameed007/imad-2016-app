@@ -40,7 +40,7 @@ content: `
 
 title: 'article Three | Shibin' ,
 heading: 'Article-One',
-date: 'sep 39,2016' ,
+date: 'sep 30,2016' ,
 content: `
 <p>
         this is the content for my third article. 
